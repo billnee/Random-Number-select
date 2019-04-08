@@ -5,6 +5,152 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>1AE0F972-7F65-46E1-B1A8-BAA00B68136E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1AE0F972-7F65-46E1-B1A8-BAA00B68136E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Random Number select project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Random Number select</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Random Number select</string>
+			<key>timeStartedRecording</key>
+			<real>576438110.10062206</real>
+			<key>timeStoppedRecording</key>
+			<real>576438110.23371196</real>
+			<key>title</key>
+			<string>Build Random Number select</string>
+			<key>uniqueIdentifier</key>
+			<string>1AE0F972-7F65-46E1-B1A8-BAA00B68136E</string>
+		</dict>
+		<key>2C85F1F9-84C0-4E63-9DDA-0962B60EC6CC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2C85F1F9-84C0-4E63-9DDA-0962B60EC6CC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Random Number select project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Random Number select</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Random Number select</string>
+			<key>timeStartedRecording</key>
+			<real>576439550.82821202</real>
+			<key>timeStoppedRecording</key>
+			<real>576439558.27361798</real>
+			<key>title</key>
+			<string>Build Random Number select</string>
+			<key>uniqueIdentifier</key>
+			<string>2C85F1F9-84C0-4E63-9DDA-0962B60EC6CC</string>
+		</dict>
+		<key>922AF3D5-AF0F-4534-8C0A-57E485D6B29A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>922AF3D5-AF0F-4534-8C0A-57E485D6B29A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Random Number select project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Random Number select</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Random Number select</string>
+			<key>timeStartedRecording</key>
+			<real>576437408.68441796</real>
+			<key>timeStoppedRecording</key>
+			<real>576437408.79203403</real>
+			<key>title</key>
+			<string>Build Random Number select</string>
+			<key>uniqueIdentifier</key>
+			<string>922AF3D5-AF0F-4534-8C0A-57E485D6B29A</string>
+		</dict>
+		<key>A0EDBEE4-AFA8-4397-A073-F29B10D9B7AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A0EDBEE4-AFA8-4397-A073-F29B10D9B7AE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Random Number select project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Random Number select</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Random Number select</string>
+			<key>timeStartedRecording</key>
+			<real>576438656.52458096</real>
+			<key>timeStoppedRecording</key>
+			<real>576438663.22653997</real>
+			<key>title</key>
+			<string>Build Random Number select</string>
+			<key>uniqueIdentifier</key>
+			<string>A0EDBEE4-AFA8-4397-A073-F29B10D9B7AE</string>
+		</dict>
+		<key>BD2AB940-2C46-4218-B31A-945EDAC477E5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BD2AB940-2C46-4218-B31A-945EDAC477E5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Random Number select project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Random Number select</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Random Number select</string>
+			<key>timeStartedRecording</key>
+			<real>576438103.319875</real>
+			<key>timeStoppedRecording</key>
+			<real>576438106.766137</real>
+			<key>title</key>
+			<string>Build Random Number select</string>
+			<key>uniqueIdentifier</key>
+			<string>BD2AB940-2C46-4218-B31A-945EDAC477E5</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
