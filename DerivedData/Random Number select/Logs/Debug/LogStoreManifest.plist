@@ -5,6 +5,36 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>BA156BF2-07B8-443C-BDE9-4FCDD82C17EC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BA156BF2-07B8-443C-BDE9-4FCDD82C17EC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Random Number select project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Random Number select</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Random Number select</string>
+			<key>timeStartedRecording</key>
+			<real>576437408.73969495</real>
+			<key>timeStoppedRecording</key>
+			<real>576437698.83107996</real>
+			<key>title</key>
+			<string>Debug Random Number select</string>
+			<key>uniqueIdentifier</key>
+			<string>BA156BF2-07B8-443C-BDE9-4FCDD82C17EC</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

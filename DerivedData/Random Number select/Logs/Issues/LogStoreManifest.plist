@@ -5,7 +5,31 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>6BA67F89-D244-4A3E-95D3-84BD866CC02C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>6BA67F89-D244-4A3E-95D3-84BD866CC02C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Random_Number_select-cnrhemtbephqiqethctardorellc</string>
+			<key>timeStartedRecording</key>
+			<real>576438656.63098502</real>
+			<key>timeStoppedRecording</key>
+			<real>576438663.18500602</real>
+			<key>title</key>
+			<string>Build target Random Number select</string>
+			<key>uniqueIdentifier</key>
+			<string>6BA67F89-D244-4A3E-95D3-84BD866CC02C</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

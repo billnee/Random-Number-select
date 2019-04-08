@@ -12,6 +12,9 @@
 		8EC4AE80225BA6DF00B51878 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EC4AE7E225BA6DF00B51878 /* Main.storyboard */; };
 		8EC4AE82225BA6E000B51878 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EC4AE81225BA6E000B51878 /* Assets.xcassets */; };
 		8EC4AE85225BA6E000B51878 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EC4AE83225BA6E000B51878 /* LaunchScreen.storyboard */; };
+		8EC4AE90225BADE900B51878 /* xosothudo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8EC4AE8E225BADE900B51878 /* xosothudo.jpg */; };
+		8EC4AE91225BADE900B51878 /* du doan xo so.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EC4AE8F225BADE900B51878 /* du doan xo so.png */; };
+		8EC4AE93225BB2BD00B51878 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EC4AE92225BB2BD00B51878 /* logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		8EC4AE81225BA6E000B51878 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8EC4AE84225BA6E000B51878 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8EC4AE86225BA6E000B51878 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EC4AE8E225BADE900B51878 /* xosothudo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = xosothudo.jpg; path = ../../xosothudo.jpg; sourceTree = "<group>"; };
+		8EC4AE8F225BADE900B51878 /* du doan xo so.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "du doan xo so.png"; path = "../../du doan xo so.png"; sourceTree = "<group>"; };
+		8EC4AE92225BB2BD00B51878 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = ../../logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 				8EC4AE7C225BA6DF00B51878 /* ViewController.swift */,
 				8EC4AE7E225BA6DF00B51878 /* Main.storyboard */,
 				8EC4AE81225BA6E000B51878 /* Assets.xcassets */,
+				8EC4AE92225BB2BD00B51878 /* logo.png */,
+				8EC4AE8F225BADE900B51878 /* du doan xo so.png */,
+				8EC4AE8E225BADE900B51878 /* xosothudo.jpg */,
 				8EC4AE83225BA6E000B51878 /* LaunchScreen.storyboard */,
 				8EC4AE86225BA6E000B51878 /* Info.plist */,
 			);
@@ -123,6 +132,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				8EC4AE85225BA6E000B51878 /* LaunchScreen.storyboard in Resources */,
+				8EC4AE91225BADE900B51878 /* du doan xo so.png in Resources */,
+				8EC4AE93225BB2BD00B51878 /* logo.png in Resources */,
+				8EC4AE90225BADE900B51878 /* xosothudo.jpg in Resources */,
 				8EC4AE82225BA6E000B51878 /* Assets.xcassets in Resources */,
 				8EC4AE80225BA6DF00B51878 /* Main.storyboard in Resources */,
 			);
@@ -285,6 +297,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = BR58973QYW;
 				INFOPLIST_FILE = "Random Number select/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -303,6 +316,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = BR58973QYW;
 				INFOPLIST_FILE = "Random Number select/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
